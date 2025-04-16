@@ -1,0 +1,6 @@
+music21
+keras
+tensorflow
+numpy
+pretty_midi
+pydub
